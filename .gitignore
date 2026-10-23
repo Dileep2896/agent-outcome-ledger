@@ -13,11 +13,6 @@ coverage/
 PLAN.md
 RESEARCH.md
 .hallmark/
-.trailer/out/
-.trailer/voice/
-.trailer/shots/
-.trailer/review/
-.trailer/.stage/
-.trailer/private/
 brag-output/
 .playwright-mcp/
+.trailer/
