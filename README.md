@@ -98,7 +98,7 @@ Next-week shares: **10% refund triage**, **60% lead qualification**, **30% invoi
 
 ## Tests and commands
 
-The current suite has **84 backend tests and 5 frontend tests**. Core tests were written and run before the corresponding implementations. The suite covers normalization, window edges, splits, reversals, accounting bounds, pricing, bootstrap determinism, approval timing, all gate verdicts, allocation constraints, seed invariants, SQLite round trips, and API behavior. Frontend tests cover number rendering, gate copy, the full story, failed-fetch retry, filters, and the evidence drawer.
+The current suite has **85 backend tests and 5 frontend tests**. Core tests were written and run before the corresponding implementations. The suite covers normalization, window edges, splits, reversals, accounting bounds, pricing, bootstrap determinism, approval timing, all gate verdicts, allocation constraints, seed invariants, SQLite round trips, and API behavior. Frontend tests cover number rendering, gate copy, the full story, failed-fetch retry, filters, and the evidence drawer.
 
 ```sh
 make test
