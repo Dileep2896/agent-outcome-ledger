@@ -1,0 +1,9 @@
+{
+  "name": "agent-outcome-ledger",
+  "private": true,
+  "packageManager": "pnpm@10.12.1",
+  "scripts": {
+    "test": "pnpm --dir web test",
+    "build": "pnpm --dir web build"
+  }
+}
